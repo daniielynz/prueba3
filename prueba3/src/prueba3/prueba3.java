@@ -6,7 +6,7 @@ public class prueba3 {
 		// TODO Apéndice de método generado automáticamente
 		System.out.println("primer");
 		System.out.println("segundo");
-		System.out.println("terceros");
+		System.out.println("tercero");
 	}
 
 }
