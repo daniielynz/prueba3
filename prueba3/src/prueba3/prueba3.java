@@ -7,6 +7,7 @@ public class prueba3 {
 		System.out.println("primer");
 		System.out.println("segundo");
 		System.out.println("tercero");
+		System.out.println("cuarto");
 	}
 
 }
